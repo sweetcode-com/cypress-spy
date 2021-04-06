@@ -14,9 +14,6 @@ describe('Google gtag events', () => {
     //     win.gtag = cy.stub().as('gtag-stub')
     //     // cy.spy(win, '@gtag-stub').as('gtag')
     //     // cy.spy(win, 'gtag').as('gtag')
-
-    
-    
     // })
 
     it('visit index page 1', () => {
