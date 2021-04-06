@@ -21,7 +21,6 @@ describe('Google gtag events', () => {
         cy.visit('/index.html')
             .contains('gtag test')
             .should('exist')
-
     })
 
     it('visit index page 2', () => {
